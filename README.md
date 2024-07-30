@@ -1,6 +1,4 @@
-# AboutMe
-
-Hello, I’m **Andrei Butnaru** and this is my GitHub portfolio.
+👋 Hello, I’m **Andrei Butnaru** and this is my GitHub portfolio.
 
 I’m looking to collaborate on ***Software Testing*** opportunities.
 
